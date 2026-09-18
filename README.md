@@ -16,5 +16,7 @@ The Secure Chatroom, however, doesn't have large attack surface. The reason for 
 # Installation
 To install the Secure Chatroom, you need to download the executable file named 'LAZY-SERVER' and then download the Secure Chatroom setup executable file. You then install the Secure Chatroom setup file and follow the steps in the Installation Wizard. During initial installation, it will create a desktop icon which is blue floppy disk with the Python logo floating on top of it.
 
+Important Note: before you launch the Secure Chatroom client UI, it is heavily advised that you launch the server first because the chatroom is dependent upon the server. If you try to launch the Secure Chatroom client UI first and attempt to join the chatroom, you will be faced with an "Oops! An error has occurred".
+
 # Future Updates
 I will be planning to push out future updates and frequent security updates to help improve the user experience. Enjoy the chatroom! Thanks :)
